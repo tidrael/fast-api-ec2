@@ -1,3 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+pillow
+transformers
+torchvision
 fastapi==0.63.0
 pydantic==1.8.1
 starlette==0.13.6
